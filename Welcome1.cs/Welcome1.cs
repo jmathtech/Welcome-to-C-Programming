@@ -1,5 +1,9 @@
-﻿using System;
-
+using System;
+/* 
+ Name: Jamil Matheny
+ Date: 10/05/2020
+ Class: CIS214
+*/
 namespace Welcome1.cs
 {
 	/* Use a capital letter */
